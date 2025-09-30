@@ -65,7 +65,7 @@ echo "source /opt/ros/humble/setup.bash" >> ~/.bashrc
 source ~/.bashrc
 ```
 
-Ricordatevi che se avete personalizzato la Shell, dovete sostituire bashrc con la vostra shell (es. zshrc). Se non avete modificato nulla allora i due comandi di terminale di prima vanno bene.
+Ricordatevi che, se avete personalizzato la shell, dovete sostituire .bashrc con il file corrispondente alla vostra shell (ad esempio, .zshrc). Se non avete apportato modifiche, i due comandi di terminale precedenti vanno bene.
 
 >[!TIP]
 >Per confermare che l’installazione sia avvenuta con successo:
@@ -191,7 +191,7 @@ echo "source /opt/ros/humble/setup.bash" >> ~/.bashrc
 source ~/.bashrc
 ```
 
-Remember that if you've customized the shell, replace bashrc with your shell (e.g., zshrc). If you haven't changed anything, the two terminal commands above are fine..
+Remember that if you've customized the shell, replace bashrc with your shell (e.g., zshrc). If you haven't changed anything, the two terminal commands above are fine.
 
 >[!TIP]
 >To confirm that the installation was successful:
