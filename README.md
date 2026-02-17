@@ -130,7 +130,7 @@ Confermate con “S”
 # ROS2 Humble and Gazebo in English
 ## Prerequisite
 > [!IMPORTANT]
-> Ensure your environment is running Ubuntu 22.04 (Jammy Jellyfish).[LINK UBUNTU](https://releases.ubuntu.com/jammy/)
+> ENSURE YOUR ENVIRONMENT IS RUNNING UNUNTU 22.04 (Jammy Jellyfish).[LINK UBUNTU](https://releases.ubuntu.com/jammy/)
 
 Open the terminal (Ctrl+Alt+T) and type:
 
@@ -163,7 +163,7 @@ sudo apt install software-properties-common
 ```
 sudo add-apt-repository universe
 ```
-Now we can add the repository to the system. We authorize the public GPG (provided by ROS2) and add ROS2 to the source list.:
+Now we can add the repository to the system. We authorize the public GPG (provided by ROS2) and add ROS2 to the source list:
 
 ```
 sudo apt update && sudo apt install curl gnupg lsb-release
