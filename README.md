@@ -65,7 +65,7 @@ echo "source /opt/ros/humble/setup.bash" >> ~/.bashrc
 source ~/.bashrc
 ```
 
-Ricordatevi che, se avete personalizzato la shell, dovete sostituire .bashrc con il file corrispondente alla vostra shell (ad esempio, .zshrc). Se non avete apportato modifiche, i due comandi di terminale precedenti vanno bene.
+Ricordatevi che, se avete personalizzato la shell, dovete sostituire .bashrc con il file corrispondente alla vostra shell (ad esempio, .zshrc). Se non avete apportato modifiche, i due comandi di terminale precedenti andranno bene.
 
 >[!TIP]
 >Per confermare che l’installazione sia avvenuta con successo:
@@ -120,7 +120,7 @@ Confermate con “S”
 >```
 >ros2 run turtlesim turtlesim_node
 >```
->Questo comando dopvrebbe aprire una finestra che mostra una tartaruga. Cerchiamo ora di far muovere questa tartaruga con la tastiera, aprite un nuovo terminale lasciando la finstra con la tartaruga attiva e scrivete:
+>Questo comando dovrebbe aprire una finestra che mostra una tartaruga. Cerchiamo ora di far muovere questa tartaruga con la tastiera, aprite un nuovo terminale lasciando la finstra con la tartaruga attiva e scrivete:
 >```
 >ros2 run turtlesim turtle_teleop_key
 >```
@@ -130,7 +130,7 @@ Confermate con “S”
 # ROS2 Humble and Gazebo in English
 ## Prerequisite
 > [!IMPORTANT]
-> YOU MUST BE SURE OF HAVING UBUNTU 22.04 (Jammy Jellyfish). [LINK UBUNTU](https://releases.ubuntu.com/jammy/)
+> Ensure your environment is running Ubuntu 22.04 (Jammy Jellyfish).[LINK UBUNTU](https://releases.ubuntu.com/jammy/)
 
 Open the terminal (Ctrl+Alt+T) and type:
 
