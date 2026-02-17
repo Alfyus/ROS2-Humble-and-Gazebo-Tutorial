@@ -219,7 +219,7 @@ Remember that if you've customized the shell, replace bashrc with your shell (e.
 >
 >> [INFO] [1652382938.487370309] [listener]: I heard: [Hello World: 3]
 >
->If the two outputs are as described above, ROS2 is working correctly.!
+>If the two outputs are as described above, ROS2 is working correctly!
 
 ## Installing Gazebo
 
